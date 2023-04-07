@@ -5,6 +5,7 @@
 ***
 
 ___
+![사진1](https://user-images.githubusercontent.com/107060000/230516831-ce84d368-15c7-4fde-92ff-c0a6d41ad844.png)
 
 
 *기울기1*
